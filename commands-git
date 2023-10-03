@@ -6,3 +6,4 @@ les 3 commandes de push
 -git commit -m "changements"
 -git push
 
+git pull
